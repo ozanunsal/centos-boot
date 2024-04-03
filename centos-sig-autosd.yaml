@@ -1,4 +1,6 @@
 releasever: 9
+variables:
+  distro: "autosd"
 
 repos:
   - autosd

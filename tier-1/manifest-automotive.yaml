@@ -3,7 +3,7 @@ recommends: false
 include:
   - manifest-tier-0.yaml
   - dnf.yaml
-  - firmware-automotive.yaml
+  - firmware.yaml
   - persistent-journal.yaml
 
 packages:
