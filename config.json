@@ -1,0 +1,17 @@
+{
+  "blueprint": {
+    "customizations": {
+      "user": [
+        {
+          "name": "autosd",
+          "password": "password",
+          "key": "ssh-rsa AAA ... user@email.com",
+          "groups": [
+            "wheel",
+	    "root"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -83,6 +83,7 @@ packages:
   - p11-kit-trust
   - pcre2-syntax
   - podman
+  - polkit
   - polkit-libs
   - procps-ng
   - python3-dnf
@@ -222,7 +223,7 @@ exclude-packages:
   - numactl
   - os
   - p11
-  - polkit
+  # - polkit
   - procps
   - publicsuffix
   # - python3
